@@ -1,0 +1,74 @@
+   
+    ## Calender and Leave Pages Formate ##
+
+     Calender page   --->>>   Paid, Unpaid, Sick Leave, Emergency, etc     ------>>>>>  create a new page {<ApplyLeave/>} ----->>>>> leave apply form manager and team lead emails, Reporting manager email
+     (Auto-send emails when leave is applied, approved, or rejected)  --->>>> 
+     		
+     get leave data all leave in current user(Table Formate) --->>    add paid & unpaid leave    --->>>  (Enable approval process (Manager/Team Lead approval required).) 
+
+    ****************************************
+     Leave Application Workflow:
+
+      Allow users to select leave type (Paid, Unpaid, Sick Leave, Emergency, etc.).
+      Add leave balance tracking for different types of leaves.
+      Enable approval process (Manager/Team Lead approval required).
+      Allow multiple levels of approval (HR, Reporting Manager, etc.).
+      Display leave history in the user profile.
+      Notifications & Email Integration:
+ 
+      Auto-send emails when leave is applied, approved, or rejected.
+      Notify HR & Reporting Manager about leave approvals.
+      Show leave request status in a notification panel.
+      Calendar Enhancements:
+
+      Highlight holidays, leaves, and weekends in different colors.
+      Show an overview of upcoming holidays & leaves.
+      Enable admin to add or remove holidays.
+      Show team members' leave schedule to plan accordingly.
+      Leave Table Improvements:
+
+     Add filters (leave type, date range, approval status).
+     Show remaining leave balance.
+     Export leave data as CSV/PDF.
+
+
+************************************************************************************************************************************************* 
+     Lead Generation Work Process Enhancements
+
+
+     Campaign Creation Enhancements:
+     Assign campaigns to TL with deadline tracking.
+     Attach documents like guidelines, reference files, and past campaign performance reports.
+     Track campaign status (Pending, In Progress, Completed).
+
+     File Management System:
+     Ensure version control for uploaded files.
+     Provide access control (RA Team, TL, Quality, Email Marketing).
+     Enable preview & download functionality.
+     Show file processing status (Pending, Under Review, Approved, Rejected).
+
+     Workflow Automation:
+     Auto-notify TL when TAL and Suppression files are ready.
+     Send alerts to RA Team when a new campaign is assigned.
+     Auto-update progress status when files are uploaded at each stage.
+     Track modifications done by Quality and Email Marketing Team.
+
+     MIS Reporting:
+     Generate reports on campaign progress and performance.
+     Show campaign success rates, file approval times, and revision counts.
+     Provide dashboard insights (Pending Tasks, Completed Tasks, Delayed Campaigns).
+     Export reports to Excel/PDF for analysis.
+
+
+*********************************************************************
+   ## Work Process In Lead Genartion ## 
+
+ * Create a Campaign --->>  TL get TAL and Suppre. files in created campaign  -->> Get this TAL and Suppre. files RA Team  -->>Upload RA team file in PreQA done Folder (user based authentication)
+   
+   store this RA uploaded file in Separate Route like PreQA All Files -->  TL get this files and checking it and upload TL upload Page  -->> get this TL uploaded file in Quality Team And Email marketing Team -->
+  
+   Make a changes Quality and Email marketing Team and upload File   -->>  get this quality uploaded and Email marketing uploaded file in MIS section 
+
+
+***********************************
+how to upload CDQA leads(Recordings) use multer ... 
